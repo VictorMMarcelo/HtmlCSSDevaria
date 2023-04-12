@@ -1,0 +1,20 @@
+/*Professores*/
+
+.content-container{
+    padding: 20px;
+    
+}
+.content-container h2.title{
+    font-size:1.2em;
+}
+.content-container > div img{
+    width: 98%;
+    border-radius: 15px;
+    border: 2px double;
+
+}
+@media screen and (min-width: 992px) {
+    .content-container article p {
+        margin: 0 auto 10px;
+    }
+}
